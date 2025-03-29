@@ -7,3 +7,12 @@ ___
 Meus contatos
 Instagram leticiasmx :cupid:
 email sammyaleticia1234@gmail.com
+___
+***O QUE ESTOU APRENDENDO?**
+
+:green_square:**Inicialização de repósitórios**
+:green_square:**Clonagem de repositórios**
+:green_square:**Controle de versões**
+:green_square:**Branches e Merge**
+:green_square:**Resolução de conflitos no Git**
+:green_square: **Trabalho colaborativo no Github**
